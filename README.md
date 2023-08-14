@@ -13,9 +13,9 @@ This component is a fork of [amagitechnologies](https://github.com/amagitechnolo
 Install the package using npm or yarn.
 
 ```bash
-npm install --save ginixsan-card-animated-modal
+npm install --save card-animated-modal
 or
-yarn add ginixsan-card-animated-modal
+yarn add card-animated-modal
 ```
 
 #### Example Output
@@ -29,7 +29,7 @@ Go to example folder and run it locally.
 #### Basic Usage
 
 ```jsx
-import CardList from "ginixsan-card-animated-modal";
+import CardList from "card-animated-modal";
 import { View, Text } from "react-native";
 
 const now = new Date();
